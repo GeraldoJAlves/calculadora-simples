@@ -1,5 +1,5 @@
 <h1 align="center">
-Calculador Simples
+Calculadora Simples
 </h1>
 
 ## Techs
